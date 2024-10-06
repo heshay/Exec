@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: fleetingnotes/fleeting-notes-website
+  BLOG_REPO: heshay/website-main
   PUBLISH_DIR: publish
 on:
   workflow_dispatch:
